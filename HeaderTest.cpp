@@ -2,7 +2,7 @@
 #include "Header2.hpp"
 #include <vector>
 
-int main()
+int mainHeaderTest()
 {
 	header1::foo(); 
 	return 0;

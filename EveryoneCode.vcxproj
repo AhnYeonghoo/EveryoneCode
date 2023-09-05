@@ -127,10 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AnimalClassMain.cpp" />
+    <ClCompile Include="AnimalMain.cpp" />
+    <ClCompile Include="Data.cpp" />
     <ClCompile Include="HeaderTest.cpp" />
     <ClCompile Include="Hello.cpp" />
+    <ClCompile Include="MemoryAllocate.cpp" />
+    <ClCompile Include="Overloading.cpp" />
+    <ClCompile Include="Reference.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Animal.hpp" />
+    <ClInclude Include="AnimalClass.hpp" />
+    <ClInclude Include="Date.hpp" />
     <ClInclude Include="Header1.hpp" />
     <ClInclude Include="Header2.hpp" />
   </ItemGroup>
