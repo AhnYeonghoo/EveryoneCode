@@ -132,6 +132,7 @@
     <ClCompile Include="Data.cpp" />
     <ClCompile Include="HeaderTest.cpp" />
     <ClCompile Include="Hello.cpp" />
+    <ClCompile Include="Marine.cpp" />
     <ClCompile Include="MemoryAllocate.cpp" />
     <ClCompile Include="Overloading.cpp" />
     <ClCompile Include="Reference.cpp" />
@@ -142,6 +143,7 @@
     <ClInclude Include="Date.hpp" />
     <ClInclude Include="Header1.hpp" />
     <ClInclude Include="Header2.hpp" />
+    <ClInclude Include="Marine.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
